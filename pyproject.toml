@@ -9,7 +9,7 @@ description = "Synthetic transactional API for the Mybank EKS sandbox"
 requires-python = ">=3.12"
 dependencies = [
   "fastapi==0.135.4",
-  "starlette==1.7.0",
+  "starlette==1.8.0",
   "pydantic==2.12.3",
   "uvicorn==0.41.0",
   "boto3==1.42.21",
